@@ -1,0 +1,17 @@
+{
+  "name": "tcp-request-promise",
+  "version": "1.0.2-b5",
+  "description": "tcp client request promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+
+  },
+  "keywords": [
+    "tcp",
+    "request",
+    "promise"
+  ],
+  "author": "ybzmh",
+  "license": "ISC"
+}
