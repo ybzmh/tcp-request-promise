@@ -1,11 +1,10 @@
 {
   "name": "tcp-request-promise",
-  "version": "1.0.2-b5",
+  "version": "1.0.2-b6",
   "description": "tcp client request promise",
   "main": "index.js",
   "scripts": {
     "test": "test.js"
-
   },
   "keywords": [
     "tcp",
@@ -13,5 +12,13 @@
     "promise"
   ],
   "author": "ybzmh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybzmh/tcp-request-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ybzmh/tcp-request-promise/issues"
+  },
+  "homepage": "https://github.com/ybzmh/tcp-request-promise#readme"
 }
